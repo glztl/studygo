@@ -1,0 +1,20 @@
+# Go build artifacts
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.out
+*.test
+*.prof
+
+# Go module cache
+go.sum
+vendor/
+
+# IDE/编辑器配置
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store  # Mac系统专属文件
